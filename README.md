@@ -1,4 +1,4 @@
-# Enrollment
+# Enrollment-ui
 
 React.js App created to view and register students information.
 
